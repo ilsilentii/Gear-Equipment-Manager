@@ -5,6 +5,44 @@
   z-index: -1;
 }
 
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.nav {
+  width:100vw;
+  height:2em;
+  background-color: rgba(0,0,0,0.2);
+}
+
+.glimmer {
+  color:white;
+  position: absolute;
+  left:81.8%;
+  top:0.3%;
+}
+
+.glimmer_image {
+  position: absolute;
+  left:80%;
+  top:0.3%;
+}
+
+.shard {
+  color:white;
+  position: absolute;
+  left:87.3%;
+  top:0.3%;
+}
+
+.shard_image {
+  position: absolute;
+  left:85.5%;
+  top:0.4%;
+}
+
 .kinetic {
   position: absolute;
   top:25%;
